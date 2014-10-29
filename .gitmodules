@@ -1,0 +1,21 @@
+[submodule "common/libs/ogg"]
+	path = common/libs/ogg
+	url = https://git.xiph.org/mirrors/ogg.git
+[submodule "common/libs/vorbis"]
+	path = common/libs/vorbis
+	url = https://git.xiph.org/mirrors/vorbis.git
+[submodule "common/libs/theora"]
+	path = common/libs/theora
+	url = https://git.xiph.org/mirrors/theora.git
+[submodule "common/libs/liboggz"]
+	path = common/libs/liboggz
+	url = https://git.xiph.org/liboggz.git
+[submodule "common/libs/libskeleton"]
+	path = common/libs/libskeleton
+	url = https://git.xiph.org/libskeleton.git
+[submodule "common/libs/libvpx"]
+	path = common/libs/libvpx
+	url = https://chromium.googlesource.com/webm/libvpx
+[submodule "common/libs/libwebm"]
+	path = common/libs/libwebm
+	url = https://chromium.googlesource.com/webm/libwebm
